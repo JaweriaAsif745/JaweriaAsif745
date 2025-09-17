@@ -6,6 +6,7 @@
 I am a **Software Engineering Graduate** passionate about **Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)**.  
 I love exploring new technologies 💻 and leveraging them to build impactful projects 🛠️.  
 
+<div style="display:flex">
 <p align="right">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Girl coding animation"/>
 </p>
@@ -21,7 +22,7 @@ I love exploring new technologies 💻 and leveraging them to build impactful pr
 - ⚡   Fun fact: *I enjoy turning complex problems into simple, creative solutions — and I never code without a cup of tea ☕*
   
 ---
-
+</div>
 ## 🔨 Languages and Tools:
 <p align="center"; style="padding:7px; margin:5px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="margin:10px; padding:5px; border-radius:8px;"/>
