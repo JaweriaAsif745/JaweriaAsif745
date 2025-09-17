@@ -7,8 +7,8 @@ I am a **Software Engineering Graduate** passionate about **Artificial Intellige
 I love exploring new technologies 💻 and leveraging them to build impactful projects 🛠️.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_3.gif" alt="Coding animation" width="400"/>
-</p>  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Girl coding animation"/>
+</p>
 ---
 
 ## 🧐 More About Me:
