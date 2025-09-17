@@ -6,23 +6,29 @@
 I am a **Software Engineering Graduate** passionate about **Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP)**.  
 I love exploring new technologies 💻 and leveraging them to build impactful projects 🛠️.  
 
-<div style="display:flex">
-<p align="right">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Girl coding animation"/>
-</p>
----
+<table>
+<tr>
+  <!-- GIF Column -->
+  <td>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Girl coding"/>
+  </td>
 
-## 🧐 More About Me:
-- 🔭   I’m currently working on **ML & NLP projects**  
-- 🌱   I’m currently learning **Deep Learning & Advanced NLP**  
-- 👨🏻‍💻   Most of my projects are available on [GitHub](https://github.com/JaweriaAsif745)  
-- 💬   Ask me about anything tech-related, I’d love to help  
-- 📫   Reach me at: **jaweriaasif745@gmail.com**  
-- 😄   Pronouns: **She/Her**  
-- ⚡   Fun fact: *I enjoy turning complex problems into simple, creative solutions — and I never code without a cup of tea ☕*
-  
----
-</div>
+  <!-- About Me Column -->
+  <td style="padding-left:20px; vertical-align:top;">
+    <h3>🧐 More About Me:</h3>
+    <ul>
+      <li>🔭 I’m currently working on <strong>ML & NLP projects</strong></li>
+      <li>🌱 I’m currently learning <strong>Deep Learning & Advanced NLP</strong></li>
+      <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/JaweriaAsif745">GitHub</a></li>
+      <li>💬 Ask me about anything tech-related, I’d love to help</li>
+      <li>📫 Reach me at: <strong>jaweriaasif745@gmail.com</strong></li>
+      <li>😄 Pronouns: <strong>She/Her</strong></li>
+      <li>⚡ Fun fact: I enjoy turning complex problems into simple, creative solutions — and I never code without a cup of tea ☕</li>
+    </ul>
+  </td>
+</tr>
+</table>
+
 ## 🔨 Languages and Tools:
 <p align="center"; style="padding:7px; margin:5px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="margin:10px; padding:5px; border-radius:8px;"/>
