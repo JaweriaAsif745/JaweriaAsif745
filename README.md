@@ -36,7 +36,7 @@ I love exploring new technologies 💻 and leveraging them to build impactful pr
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="height:40px; margin:5px;"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" style="height:40px; margin:5px;"/>
   <img src="https://img.shields.io/badge/NLTK-85C1E9?logo=python&logoColor=white" style="height:40px; margin:5px;"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" style="height:40px; margin:5px;"/>
+<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" style="height:40px; margin:5px;"/> -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="height:40px; margin:5px;"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="height:40px; margin:5px;"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height:40px; margin:5px;"/>
